@@ -1,7 +1,7 @@
 # Hi there, I'm Sushmitha Duvvuri! 👋
 
-Experienced in e-commerce product data validation and healthcare data extraction, with hands-on expertise in evaluating and aligning product listings, verifying brand authenticity, and ensuring data accuracy as per SOP guidelines. Skilled in extracting structured information from medical PDF reports, organizing large datasets in Excel, performing detailed quality checks, and transforming raw data into accurate, well-structured formats to support reliable analysis and decision-making.
-I am an aspiring Data Analyst with a strong interest in transforming raw data into meaningful insights through data analysis, visualization, and statistical techniques. I have hands-on experience using SQL for database queries, Python for data cleaning and analysis, Excel for data processing and dashboard creation, and Power BI for building interactive visual reports. I am passionate about working with data to identify trends, improve data quality, and support informed decision-making. With a continuous learning mindset, I aim to apply my analytical skills to deliver data-driven solutions and contribute effectively to organizational goals.
+Aspiring **Data Analyst** with experience in data validation and extraction. Skilled in **Python, SQL, Excel, and Power BI**, I specialize in transforming complex datasets into clear, actionable insights to support informed decision-making.
+
 ---
 
 ### 🔭 Currently Working On:
@@ -66,7 +66,7 @@ I am an aspiring Data Analyst with a strong interest in transforming raw data in
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/sushmithaduvvuri)
 - [GitHub](https://github.com/sushmithaduvvuri)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:sushmitharedduduvvuri07@gmail.com)
 
 ---
 *"Data is the new oil. It's valuable, but if unrefined it cannot really be used."* – Clive Humby
