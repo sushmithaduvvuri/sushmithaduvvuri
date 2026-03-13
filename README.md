@@ -53,7 +53,7 @@ Aspiring **Data Analyst** with experience in data validation and extraction. Ski
 
 ## 📜 Certifications
 - 🎓 **Coursera Data Analytics Professional Certificate**
-- 🎓 ** Hacker Rank SQL Certification ** (In Progress)
+- 🎓 ** Hacker Rank SQL Certification ** 
 
 ---
 
